@@ -1,0 +1,4 @@
+ADMIN_AUTH_SECRET=79c1c359feb0031f809857420a069b290f89d7309ff093e542ff621a7d269d62
+
+Strapi you can create only 1 project for free for more it starts at $15/month
+Render you can host data on render and deploy it on strapi for free (1GB) for more it starts at $6/month
